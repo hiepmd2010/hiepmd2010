@@ -1,2 +1,3 @@
 import re
-def m
+a=[1,2,3,4]
+print(sum(a)/len(a))
